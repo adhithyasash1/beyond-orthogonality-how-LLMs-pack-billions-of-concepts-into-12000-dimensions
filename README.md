@@ -1,6 +1,6 @@
 # beyond orthogonality: how language models pack billions of concepts into 12,000 dimensions
 
-this repo contains a simple python demo and explanation inspired by nicholas yoder’s article *“beyond orthogonality: how language models pack billions of concepts into 12,000 dimensions”* (feb 2025). the goal is to make the ideas accessible both **numerically** and **visually**.
+this repo contains a simple python demo and explanation inspired by nicholas yoder’s article *“beyond orthogonality: how language models pack billions of concepts into 12,000 dimensions”* (feb 2025) (https://nickyoder.com/johnson-lindenstrauss/). the goal is to make the ideas accessible both **numerically** and **visually**.
 
 ---
 
