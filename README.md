@@ -68,11 +68,11 @@ where:
 
 1. clone the repo and install dependencies:
 
-`bash\ngit clone <your-repo-url>\ncd <repo>\npip install -r requirements.txt\n`
+`git clone <your-repo-url>\ncd <repo>\npip install -r requirements.txt`
 
 2. run the script or open the notebook:
 
-`bash\npython embedding_geometry_demo.py\n`
+`python embedding_geometry_demo.py`
 
 3. you’ll see:
 
