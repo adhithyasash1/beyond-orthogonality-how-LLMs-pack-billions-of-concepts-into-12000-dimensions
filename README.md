@@ -90,5 +90,3 @@ the included notebook/code illustrates three main ideas:
 * nicholas yoder, *beyond orthogonality: how language models pack billions of concepts into 12,000 dimensions* (2025).
 * johnson & lindenstrauss, *extensions of lipschitz mappings into a hilbert space* (1984).
 * 3blue1brown, *transformers* video series (2025).
-
-would you like me to also add a **diagram sketch** (e.g. ascii or matplotlib plot saved as `.png`) showing quasi-orthogonal vectors on a sphere, so the repo looks more visual for github readers?
