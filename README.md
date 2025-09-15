@@ -43,7 +43,7 @@ the included notebook/code illustrates three main ideas:
 
 where:  
 - `k` = embedding dimension (e.g., 12,288 for gpt-3)
-- - `f` = degrees of “freedom” from orthogonality (90° – angle)- the calculator estimates how many concepts can fit at different tolerances.
+- `f` = degrees of “freedom” from orthogonality (90° – angle)- the calculator estimates how many concepts can fit at different tolerances.
 
 * examples for gpt-3 (12,288d):
 
