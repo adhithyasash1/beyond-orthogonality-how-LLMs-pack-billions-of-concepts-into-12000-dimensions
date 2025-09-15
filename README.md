@@ -39,7 +39,7 @@ the included notebook/code illustrates three main ideas:
 
 * based on the formula from the article:
 
-`\nvectors ≈ 10^(k * f² / 1500)\n`\n\n  where:\n  - `k` = embedding dimension (e.g., 12,288 for gpt-3)  \n  - `f` = degrees of “freedom” from orthogonality (90° – angle)\n\n- the calculator estimates how many concepts can fit at different tolerances.
+`\nvectors ≈ 10^(k * f² / 1500)\n` \n\n  where:\n  - `k` = embedding dimension (e.g., 12,288 for gpt-3)  \n  - `f` = degrees of “freedom” from orthogonality (90° – angle)\n\n- the calculator estimates how many concepts can fit at different tolerances.
 
 * examples for gpt-3 (12,288d):
 
